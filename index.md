@@ -1,13 +1,17 @@
-## Privacy
+## Privacy Policy
+Consent: By using our website, you hereby consent to our Privacy Policy and agree to its terms.
 
-We can show ads of interest to you that will never contain violence, pornography, defamation or violate any Google Play terms of service.
+### Location access
+The location permission is only required if you want the application to obtain your location every time you press the update location button, in case you do not want to allow access to your location on the mobile device, you can enter the location through coordinates. This location is not collected by our servers, this location will only be saved on the mobile device and you can deny the permissions by deleting the application data.
 
-The application is suitable for the general public, since it is managed to show notifications of species of which you can control it from the app interface.
+### Read and write to local storage
+The app allows you to import and export the configuration of the specimen filters, so it is necessary to have this type of access enable.
 
-We do not obtain data from the device or share the information with third parties.
+### Real-time notifications
+Notifications will arrive every minute, but you will only receive notifications corresponding to the content of the application, you can disable notifications by entering the application and disable the notification button.
 
-The application can send messages in the foreground and background, if the notifications bother you, you can deactivate it by entering the app and in the configuration section.
+### Advertising
+To keep this application active and improve the content, advertising verified and provided only by Google is included.
 
 ### Support or Contact
-
 legendarymap@outlook.com
