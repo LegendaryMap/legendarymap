@@ -7,6 +7,9 @@ The location permission is only required if you want the application to obtain y
 ### Read and write to local storage
 The app allows you to import and export the configuration of the specimen filters, so it is necessary to have this type of access enable.
 
+### Open Google Maps or other third party applications
+We verify that you have the Google Maps app and two other applications, the "GAME LAUNCHER MODE ON COPYING" option is set to "None" by default, but you can select any of the 3 options, this information is only stored on the device so that it does not set it up again set up.
+
 ### Real-time notifications
 Notifications will arrive every minute, but you will only receive notifications corresponding to the content of the application, you can disable notifications by entering the application and disable the notification button.
 
