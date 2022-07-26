@@ -1,5 +1,5 @@
 ## Privacy Policy
-Consent: By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+Consent: By using our App, you hereby consent to our Privacy Policy and agree to its terms.
 
 ### Location access
 The location permission is only required if you want the application to obtain your location every time you press the update location button, in case you do not want to allow access to your location on the mobile device, you can enter the location through coordinates. This location is not collected by our servers, this location will only be saved on the mobile device and you can deny the permissions by deleting the application data.
