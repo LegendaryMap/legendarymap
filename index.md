@@ -16,5 +16,8 @@ Notifications will arrive every minute, but you will only receive notifications 
 ### Advertising
 To keep this application active and improve the content, advertising verified and provided only by Google is included.
 
+### Read notifications
+This permission is optional in case you want to activate the autobot for whatsapp that allows you to read incoming notifications and respond automatically, the notifications that are read, it is of temporary access and we do not collect this information.
+
 ### Support or Contact
 legendarymap@outlook.com
